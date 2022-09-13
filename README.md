@@ -17,10 +17,14 @@ Saiba um pouco mais sobre mim:
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/linikers)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/linikers/)
 
-Atuação
+##Tecnologias utilizadas
+<div style = "display: inline_block"><br>
+  <img align = "center" alt = "HTML5" src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align = "center" alt = "CSS" src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align = "center" alt = "Delphi" src = "https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white">
+  <img align = "center" alt = "HTML5" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  
+</div>
 
-[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
-[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+![Liniker's GitHub stats](https://github-readme-stats.vercel.app/api?username=linikers&show_icons=true&theme=merko)
 
-![Liniker's GitHub stats](https://github-readme-stats.vercel.app/api?username=linikers&show_icons=true&theme=dark)
