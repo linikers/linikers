@@ -6,7 +6,7 @@
 Saiba um pouco mais sobre mim:
 
 - 🔭 Atualmente estou trabalhando com HTML5, CSS3 e JavaScript
-- 🌱 Estou aprendendo atualmente DOM
+- 🌱 Estou aprendendo atualmente React
 - 👯 Estou procurando colaborar em novos projetos e soluções que simplificam rotinas
 - 🤔 Estou procurando ajudar em novos projetos 
 - 💬 Pergunte-me sobre Front-End e JavaScript
