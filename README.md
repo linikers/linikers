@@ -5,7 +5,7 @@
 
 Saiba um pouco mais sobre mim:
 
-- 🔭 Atualmente estou trabalhando com HTML5, CSS3, JavaScript, Node Js, React, styled-components, react router dom entre outras libs
+- 🔭 Atualmente estou trabalhando com HTML5, CSS3, JavaScript, Node Js, React, NextJs, styled-components, react router dom entre outras libs
 - 🌱 Estou aprendendo atualmente Node.js
 - 👯 Estou procurando colaborar em novos projetos e soluções que simplificam rotinas
 - 🤔 Estou procurando ajudar em novos projetos 
