@@ -28,7 +28,11 @@ Saiba um pouco mais sobre mim:
   <img align = "center" alt = "HTML5" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align = "center" alt = "Ubuntu" src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img align = "center" alt = "vercel" src = "https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img align = "center" alt = "mui" src = "https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+  <img align = "center" alt = "styled" src = "https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   
+  
+
   <br>
   <br>
 </div>
