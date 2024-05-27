@@ -24,7 +24,6 @@ Saiba um pouco mais sobre mim:
 
 ![Liniker's GitHub stats](https://github-readme-stats.vercel.app/api?username=linikers&show_icons=true&theme=merko)
 
-##Tecnologias utilizadas
 <div style = "display: inline_block"><br>
   
   <img align = "center" alt = "VS Code" src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
