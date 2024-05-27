@@ -18,8 +18,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/linikers)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/linikers/)
 
+<div align="center">
 ### Estatísticas do GitHub:
-
+</div>
 <div align="center">
   <a href="https://github.com/linikers/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linikers&langs_count=8&layout=compact&theme=merko" alt="Top Langs" />
@@ -28,8 +29,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=linikers&show_icons=true&theme=merko" alt="Liniker's GitHub stats" />
 </div>
 
+<div align="center">
 ### Ferramentas e Tecnologias:
-
+</div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
