@@ -5,17 +5,22 @@
 
 Saiba um pouco mais sobre mim:
 
-- 🔭 Atualmente estou trabalhando com HTML5, CSS3, JavaScript, Node Js, React, NextJs, styled-components, react router dom entre outras libs
+- 🔭 Atualmente estou trabalhando com  JavaScript, Node Js, React, NextJs, Material-UI entre outras libs
 - 🌱 Estou aprendendo atualmente Next.js
 - 👯 Estou procurando colaborar em novos projetos e soluções que simplificam rotinas
 - 🤔 Estou trabalhando atualmente com sistemas Educacionais
-- 💬 Pergunte-me sobre Front-End e JavaScript
+- 💬 Pergunte-me sobre Front-End e React
 - 📫 Encontre-me nas redes-sociais abaixo
 - ⚡ Fato Engraçado: Gosto muito de carros antigos 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linikerS)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/linikers)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/linikers/)
+<div style="width: 200px;">
+<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
+</a>
+</div>
 
 ##Tecnologias utilizadas
 <div style = "display: inline_block"><br>
