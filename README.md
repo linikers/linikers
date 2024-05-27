@@ -32,7 +32,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=linikers&show_icons=true&theme=merko" alt="Liniker's GitHub stats" />
 </div>
-<div align="row">
+
 <h3 align="left">Linguagens e ferramentas:</h3>
 <br /> 
 
@@ -64,6 +64,6 @@
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="25" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
-</div>  
+
 
 <br/>  
