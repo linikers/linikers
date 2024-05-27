@@ -21,7 +21,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/linikers/)
 
 <br />
-[![GIF](https://media.giphy.com/media/ho/giphy.gif)]
+[![GIF]([https://media.giphy.com/media/ho/giphy.gif](https://i.gifer.com/ho.gif))]
 <br />
 
 ### Estatísticas do GitHub:
