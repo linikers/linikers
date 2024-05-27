@@ -18,7 +18,7 @@ Saiba um pouco mais sobre mim:
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/linikers/)
 <div style="width: 200px;">
 <a href="https://github.com/SeuPerfilAqui/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linikers&langs_count=8" alt="Top Langs" />
 </a>
 </div>
 
