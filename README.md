@@ -32,7 +32,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=linikers&show_icons=true&theme=merko" alt="Liniker's GitHub stats" />
 </div>
-<div align="center">
+<div>
 <h3 align="left">Linguagens e ferramentas:</h3>
 <br /> 
 
