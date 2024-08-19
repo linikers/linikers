@@ -4,7 +4,7 @@
 
 ### Saiba um pouco mais sobre mim:
 
-- 🔭 Atualmente estou trabalhando com JavaScript, Node.js, React, Next.js, Material-UI entre outras libs
+- 🔭 Atualmente estou trabalhando com POSTGRES, Node.js, React, Next.js, Material-UI entre outras libs
 - 🌱 Estou aprendendo atualmente Next.js
 - 👯 Estou procurando colaborar em novos projetos e soluções que simplificam rotinas
 - 🤔 Estou trabalhando atualmente com sistemas educacionais
