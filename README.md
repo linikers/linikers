@@ -2,9 +2,13 @@ Olá! ☕ Quer um café enquanto explora meus projetos?
 Bem-vindo ao meu repositório! Aqui você encontrará uma coleção de projetos e soluções que desenvolvi ao longo da minha jornada como desenvolvedor.
 
 Um pouco sobre mim:
+<br />
 🚀 Atualmente Explorando: PostgreSQL, Node.js, React, Next.js, Material-UI, e diversas outras tecnologias modernas.
+<br />
 🌱 Aprendizado Contínuo: Imerso no ecossistema do Next.js e suas capacidades de renderização híbrida.
+<br />
 💡 O que Me Motiva: Simplificar rotinas através da criação de soluções inovadoras e eficientes.
+<br />
 🤝 Vamos Colaborar?: Sempre em busca de oportunidades para colaborar em projetos que façam a diferença, especialmente no setor educacional.
 💬 Pergunte-me Sobre: Desenvolvimento Front-End, com especial foco em React e suas melhores práticas.
 🌐 Vamos nos Conectar: Não hesite em entrar em contato através das redes sociais abaixo.
