@@ -1,16 +1,14 @@
-### Olá 👋 quer café? ☕
+Olá! ☕ Quer um café enquanto explora meus projetos?
+Bem-vindo ao meu repositório! Aqui você encontrará uma coleção de projetos e soluções que desenvolvi ao longo da minha jornada como desenvolvedor.
 
-**Seja bem-vindo ao meu repositório! Aqui apresento alguns projetos e funcionalidades.**
-
-### Saiba um pouco mais sobre mim:
-
-- 🔭 Atualmente estou trabalhando com POSTGRES, Node.js, React, Next.js, Material-UI entre outras libs
-- 🌱 Estou aprendendo atualmente Next.js
-- 👯 Estou procurando colaborar em novos projetos e soluções que simplificam rotinas
-- 🤔 Estou trabalhando atualmente com sistemas educacionais
-- 💬 Pergunte-me sobre Front-End e React
-- 📫 Encontre-me nas redes sociais abaixo
-- ⚡ Fato Engraçado: Gosto muito de carros antigos
+Um pouco sobre mim:
+🚀 Atualmente Explorando: PostgreSQL, Node.js, React, Next.js, Material-UI, e diversas outras tecnologias modernas.
+🌱 Aprendizado Contínuo: Imerso no ecossistema do Next.js e suas capacidades de renderização híbrida.
+💡 O que Me Motiva: Simplificar rotinas através da criação de soluções inovadoras e eficientes.
+🤝 Vamos Colaborar?: Sempre em busca de oportunidades para colaborar em projetos que façam a diferença, especialmente no setor educacional.
+💬 Pergunte-me Sobre: Desenvolvimento Front-End, com especial foco em React e suas melhores práticas.
+🌐 Vamos nos Conectar: Não hesite em entrar em contato através das redes sociais abaixo.
+⚡ Curiosidade Divertida: Apaixonado por carros clássicos, sempre em busca de novas restaurações e histórias.
 
 <div align="center">
 
