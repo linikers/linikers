@@ -9,7 +9,7 @@ Um pouco sobre mim:
 <br />
 💡 O que Me Motiva: Simplificar rotinas através da criação de soluções inovadoras e eficientes.
 <br />
-🤝 Vamos Colaborar?: Sempre em busca de oportunidades para colaborar em projetos que façam a diferença, especialmente no setor educacional.
+🤝 Vamos Colaborar: Sempre em busca de oportunidades para colaborar em projetos que façam a diferença, especialmente no setor educacional.
 <br />
 💬 Pergunte-me Sobre: Desenvolvimento Front-End, com especial foco em React e suas melhores práticas.
 <br />
