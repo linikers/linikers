@@ -10,10 +10,13 @@ Um pouco sobre mim:
 💡 O que Me Motiva: Simplificar rotinas através da criação de soluções inovadoras e eficientes.
 <br />
 🤝 Vamos Colaborar?: Sempre em busca de oportunidades para colaborar em projetos que façam a diferença, especialmente no setor educacional.
+<br />
 💬 Pergunte-me Sobre: Desenvolvimento Front-End, com especial foco em React e suas melhores práticas.
+<br />
 🌐 Vamos nos Conectar: Não hesite em entrar em contato através das redes sociais abaixo.
+<br />
 ⚡ Curiosidade Divertida: Apaixonado por carros clássicos, sempre em busca de novas restaurações e histórias.
-
+<br />
 <div align="center">
 
 ### Conecte-se comigo:
