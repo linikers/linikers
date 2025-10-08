@@ -1,9 +1,9 @@
-Olá! ☕ Quer um café enquanto explora meus projetos?
+Trabalhando na área educacional há mais de 12 anos e 20 na tecnologia.
 Bem-vindo ao meu repositório! Aqui você encontrará uma coleção de projetos e soluções que desenvolvi ao longo da minha jornada como desenvolvedor.
 
 Um pouco sobre mim:
 <br />
-🚀 Atualmente Explorando: PostgreSQL, Node.js, React, Next.js, Material-UI, e diversas outras tecnologias modernas.
+🚀 Atualmente Explorando: PostgreSQL, MongoDB, Node.js, React, Next.js, Material-UI, RabbitMQ e diversas outras tecnologias modernas.
 <br />
 🌱 Aprendizado Contínuo: Imerso no ecossistema do Next.js e suas capacidades de renderização híbrida.
 <br />
