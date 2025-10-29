@@ -11,7 +11,7 @@ Um pouco sobre mim:
 <br />
 🤝 Vamos Colaborar: Sempre em busca de oportunidades para colaborar em projetos que façam a diferença, especialmente no setor educacional.
 <br />
-💬 Pergunte-me Sobre: Desenvolvimento Front-End, com especial foco em React e suas melhores práticas.
+💬 Pergunte-me Sobre: Desenvolvimento web full, com especial foco em React e suas melhores práticas.
 <br />
 🌐 Vamos nos Conectar: Não hesite em entrar em contato através das redes sociais abaixo.
 <br />
