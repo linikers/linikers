@@ -1,4 +1,4 @@
-Trabalhando na área educacional há mais de 12 anos e 20 na tecnologia.
+Trabalhando na área educacional há mais de 12 anos e 20 com tecnologia.
 Bem-vindo ao meu repositório! Aqui você encontrará uma coleção de projetos e soluções que desenvolvi ao longo da minha jornada como desenvolvedor.
 
 Um pouco sobre mim:
@@ -11,7 +11,17 @@ Um pouco sobre mim:
 <br />
 🤝 Vamos Colaborar: Sempre em busca de oportunidades para colaborar em projetos que façam a diferença, especialmente no setor educacional.
 <br />
-💬 Pergunte-me Sobre: Desenvolvimento web full, com especial foco em React e suas melhores práticas.
+Especialidades
+Desenvolvimento Full Stack
+React & Next.js
+Node.js
+Arquitetura de sistemas
+APIs e integrações
+Sistemas educacionais
+Infraestrutura Linux
+Deploy e DevOps
+IA aplicada ao desenvolvimento
+Pagamentos digitais e automações
 <br />
 🌐 Vamos nos Conectar: Não hesite em entrar em contato através das redes sociais abaixo.
 <br />
