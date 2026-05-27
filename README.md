@@ -3,11 +3,17 @@ Bem-vindo ao meu repositório! Aqui você encontrará uma coleção de projetos 
 
 Um pouco sobre mim:
 <br />
-🚀 Atualmente Explorando: PostgreSQL, MongoDB, Node.js, React, Next.js, Material-UI, RabbitMQ e diversas outras tecnologias modernas.
+🚀 Atualmente Explorando: Cursor AI
+OpenCode
+Agentes de IA
+Automação com IA
+Integração com APIs modernas
+Fluxos inteligentes de desenvolvimento.
 <br />
 🌱 Aprendizado Contínuo: Imerso no ecossistema do Next.js e suas capacidades de renderização híbrida.
 <br />
-💡 O que Me Motiva: Simplificar rotinas através da criação de soluções inovadoras e eficientes.
+💡 O que Me Motiva: 
+Grande parte da minha experiência está ligada ao desenvolvimento de sistemas educacionais, ERPs, Sistemas legados, automações administrativas e plataformas web modernas.
 <br />
 🤝 Vamos Colaborar: Sempre em busca de oportunidades para colaborar em projetos que façam a diferença, especialmente no setor educacional.
 <br />
